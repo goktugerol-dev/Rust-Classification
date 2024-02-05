@@ -17,7 +17,7 @@ Click==7.0
 cloudinary==1.16.0
 cloudpickle==1.1.1
 colorama==0.3.9
-cryptography==2.7
+cryptography==42.0.0
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
